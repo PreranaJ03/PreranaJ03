@@ -7,7 +7,7 @@ Hello, I'm Prerana. Data Analyst with expertise in data analysis and reporting, 
 >Developing dashboards on PowerBI.</br>
 >Data analysis and reporting using Google Sheets and Excel.</br>
 
-</br.
+</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preranajagannathareddy/) 
